@@ -1,6 +1,7 @@
 ## Olá mundo! Eu sou o Rafael 😝
 
-Itens no meu perfil:
+Cursando: Análise e Desenvolvimento de Sistemas (FIAP)
+Resumindo, aqui você encontrará:
 
 - 🏹 Aulas práticas de cursos.
 - 📚 Lições de sala.
